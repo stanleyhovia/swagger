@@ -46,11 +46,11 @@ paths:
       parameters:
       - name: "petId"
         in: "path"
-        description: "ID of pet to update"
+        description: "ID of pet to update stho"
         required: true
         type: "integer"
         format: "int64"
-      - name: "additionalMetadata"
+      - name: "additionalMetadata stho"
         in: "formData"
         description: "Additional data to pass to server"
         required: false
